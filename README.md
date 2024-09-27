@@ -25,8 +25,3 @@ Este projeto é uma aplicação em Prolog/Haskell para gerenciamento de turmas e
 	- Exibir Notas de um Aluno,
 	- Calcular Media de um Aluno,
 	- Excluir Aluno do Sistema.
-
-## Instalação
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/usuario/gerenciamento-turmas-prolog.git
