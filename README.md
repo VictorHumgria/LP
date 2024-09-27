@@ -13,7 +13,7 @@ Este projeto explora conceitos de manipulação lógica e funcional em Prolog e 
 Este projeto é uma aplicação em Prolog/Haskell para gerenciamento de turmas e alunos, permitindo a criação, consulta e manipulação de dados relacionados a turmas acadêmicas e seus respectivos alunos.
 
 ## Funcionalidades
-  - Cadastrar Turma,
+  	- Cadastrar Turma,
 	- Cadastrar Aluno,
 	- Adicionar Aluno a Turma,
 	- Listar Turmas,
