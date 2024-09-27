@@ -1,0 +1,8 @@
+:- dynamic aluno/2.
+
+aluno('Ana', [('Matematica 101', [8.5, 9.0]), ('Fisica 303', [7.5, 8.0, 8.5])]).
+aluno('Joao', [('Matematica 101', [7.0, 7.5]), ('Historia 202', [8.0, 8.5, 9.0])]).
+aluno('Maria', [('Matematica 101', [9.5, 10.0]), ('Fisica 303', [8.5, 9.0])]).
+aluno('Pedro', [('Historia 202', [7.5, 8.0, 8.5])]).
+aluno('Clara', [('Historia 202', [9.0, 9.5, 10.0])]).
+aluno('Lucas', [('Fisica 303', [8.0, 8.5, 9.0])]).

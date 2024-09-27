@@ -1,0 +1,22 @@
+notas sobre as funções do modulo turmas:
+
+add_turma_input:-
+ vai solicitar que o usuário digite as informações necessárias para criar a turma, mas não ira solicitar a entrada nenhuma de aluno.
+
+get_turmas:-
+ vai listar todas as turmas no arquivo turmas.csv e vai imprimir para o usuário.
+
+cadastra_aluno_turma:-
+ vai receber como primeiro parâmetro o nome da turma e como segundo o aluno a ser cadastrado.
+
+exibir alunos:-
+ lista os alunos da turma foi passada como parâmetro.
+
+listar_turmas_aluno:-
+ recebe como paramentro o aluno  e verifica em quais turmas ele esta cadastrado.
+
+del_turma:-
+ exclui a turma de acordo com o código inserido.
+
+del_aluno:-
+ exclui o aluno de acordo com o nome da turma e o o nome do aluno.
