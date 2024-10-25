@@ -1,0 +1,6 @@
+:- dynamic turma/4.
+
+turma('Matematica 101', 1001, 'Prof. Silva', ['Ana', 'Joao', 'Maria']).
+turma('Historia 202', 2002, 'Prof. Santos', ['Pedro', 'Clara', 'Joao']).
+turma('Fisica 303', 3003, 'Prof. Oliveira', ['Maria', 'Lucas', 'Ana']).
+
